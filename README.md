@@ -77,7 +77,10 @@ Tools and Versions:
 	inputFinalPath.txt       - output file of Dubins path calculation of pair of points from PlotDubinsOnly.csv
 
 ====================================
+
 References: 
  * The Dijkstra's Algorithm files are open-source code from princeton.edu 
- * from the book Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.  	
+ * from the book Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.  
+ 
 ====================================
+
