@@ -80,7 +80,7 @@ Tools and Versions:
 
 References: 
  * The Dijkstra's Algorithm files are open-source code from princeton.edu 
- * from the book Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.  
+   from the book Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.  
  
 ====================================
 
