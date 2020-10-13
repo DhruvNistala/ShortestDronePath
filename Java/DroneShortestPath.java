@@ -20,9 +20,14 @@
  * Author  : Dhruv Nistala, Westwood High School, Austin TX
  * Date    : June-September 2020
  * 
- * Project done under guidance of Professor Swaroop Darbha, 
+ * Acknowledgments:
+ * 
+ * Project was done under guidance of Professor Swaroop Darbha, 
  * Texas A&M University at College Station.
- * 	
+ * 
+ * References: 
+ * The Dijkstra's Algorithm files are open-source code from princeton.edu 
+ * from the book Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.  	
  */
 
 import java.util.*;
